@@ -1,0 +1,3 @@
+break mm_free
+break check_16byte_aligned
+run -C -f traces/syn-array-short.rep

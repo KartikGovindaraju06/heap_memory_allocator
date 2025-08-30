@@ -1,0 +1,2 @@
+b mm_init
+run -V -f traces/syn-array-short.rep
